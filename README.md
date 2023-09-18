@@ -1,7 +1,7 @@
  **ECGR 4105 - Intro to Machine Learning**
 ------------------------------------------
 
-This repository will consist homework assignments and projects from my machine learnign class at the University of North Carolina at Charlotte.
+This repository will consist homework of assignments and projects from my machine learnign class at the University of North Carolina at Charlotte.
 
 ***Homework 1**
 -----------------------------------------
