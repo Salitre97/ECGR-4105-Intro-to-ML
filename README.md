@@ -10,3 +10,8 @@ Linear Regression and Gradient Descent
 **Homework 2**
 -----------------------------------------
 Regularization: Penalizing larger sample values that may result in overfitting our training model. 
+
+**Homework 3**
+------------------------------------------
+Logistic Regression | PCA-Bayes Naive Classification | k-principle components
+
