@@ -13,5 +13,5 @@ Regularization: Penalizing larger sample values that may result in overfitting o
 
 **Homework 3**
 ------------------------------------------
-Logistic Regression | PCA-Bayes Naive Classification | K-Principle Components
+Logistic Regression | PCA | Bayes Naive Classification | K-Principle Components
 
