@@ -15,3 +15,5 @@ Regularization: Penalizing larger sample values that may result in overfitting o
 ------------------------------------------
 Logistic Regression | PCA | Bayes Naive Classification | K-Principle Components
 
+**Homework 4**
+Support Vector Machine (SVM) | Support Vector Regression (SVR)
