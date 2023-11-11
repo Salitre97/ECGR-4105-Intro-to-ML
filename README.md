@@ -18,3 +18,7 @@ Logistic Regression | PCA | Bayes Naive Classification | K-Principle Components
 **Homework 4**
 ------------------------------------------
 Support Vector Machine (SVM) | Support Vector Regression (SVR)
+
+**Homework 5**
+--------------------------------------------
+Pytorch | Optimizers: Adam and Stochastic Gradient Descent (SGD)
