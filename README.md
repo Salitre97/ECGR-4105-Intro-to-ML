@@ -21,4 +21,9 @@ Support Vector Machine (SVM) | Support Vector Regression (SVR)
 
 **Homework 5**
 --------------------------------------------
+<<<<<<< HEAD
 Pytorch | Optimizers: Adam and Stochastic Gradient Descent (SGD)
+=======
+Pytorch | Optimizers: Adam and Schotastic Gradient Descent (SGD)
+
+>>>>>>> 523a679 (added homework5 and clean up)
