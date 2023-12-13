@@ -25,4 +25,8 @@ Pytorch | Optimizers: Adam and Schotastic Gradient Descent (SGD)
 
 **Homework 6**
 -----------------------------------------------
-Fully Connected Neural Networks (FCNN) 
+Fully Connected Neural Networks (FCNN)
+
+**Homework 7**
+--------------------------------------------
+Convolutional Neural Networks (CNN)| Regularization | Residual Networks(ResNet) 
