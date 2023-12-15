@@ -30,3 +30,12 @@ Fully Connected Neural Networks (FCNN)
 **Homework 7**
 --------------------------------------------
 Convolutional Neural Networks (CNN)| Regularization | Residual Networks(ResNet) 
+
+**Final Project**
+--------------------------------------------
+Predicting The Future Returns of the S&P 500
+
+machine learning models:
+SVM
+Fully Connected Neural Network 
+Convolutional Neural Network
